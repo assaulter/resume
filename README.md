@@ -80,3 +80,8 @@
 - Knockout.js
     - 最初にwebフロントを学んだ時にお世話になった
 
+# 性格診断
+## 16Personalities性格診断テスト
+2022/12/19時点の結果
+https://www.16personalities.com/ja/isfj%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC
+
