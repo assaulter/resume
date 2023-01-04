@@ -85,3 +85,9 @@
 2022/12/19時点の結果
 https://www.16personalities.com/ja/isfj%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC
 
+# 個人サービス
+[Simple収支表: AppStore](https://apps.apple.com/jp/app/simple%E5%8F%8E%E6%94%AF%E8%A1%A8-%E5%8F%8E%E6%94%AF%E3%82%92%E7%B0%A1%E5%8D%98%E3%81%AB%E7%AE%A1%E7%90%86/id1557613311)
+
+CoreData + CloudKitを試したかったので作りました。
+
+思ったよりユーザーた付いてて驚いています。
