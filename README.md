@@ -85,6 +85,13 @@
 2022/12/19時点の結果
 https://www.16personalities.com/ja/isfj%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC
 
+## StrengthFinder 上位5つの資質 
+1. 適応性
+2. 最上志向
+3. 内省
+4. 収集心
+5. 慎重さ 
+
 # 個人サービス
 [Simple収支表: AppStore](https://apps.apple.com/jp/app/simple%E5%8F%8E%E6%94%AF%E8%A1%A8-%E5%8F%8E%E6%94%AF%E3%82%92%E7%B0%A1%E5%8D%98%E3%81%AB%E7%AE%A1%E7%90%86/id1557613311)
 
