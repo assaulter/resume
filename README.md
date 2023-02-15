@@ -97,4 +97,4 @@ https://www.16personalities.com/ja/isfj%E5%9E%8B%E3%81%AE%E6%80%A7%E6%A0%BC
 
 CoreData + CloudKitを試したかったので作りました。
 
-思ったよりユーザーた付いてて驚いています。
+思ったよりユーザーに使っていただいており、驚いています
